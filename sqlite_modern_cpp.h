@@ -4,7 +4,7 @@
 #include <functional>
 #include <stdexcept>
 
-#include "sqlite3.h"
+#include <sqlite3.h>
 
 namespace sqlite {
 
