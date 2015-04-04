@@ -34,7 +34,7 @@ namespace sqlite {
 	class database;
 	class database_binder;
 
-	template<std::size_t> class binder;
+	template<std::size_t> struct binder;
 
 	class database_binder {
 	private:
